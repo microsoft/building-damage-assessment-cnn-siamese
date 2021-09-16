@@ -1,0 +1,25 @@
+{
+    "num_to_name": {
+        "0": "Background",
+        "1": "No damage",
+        "2": "Minor damage",
+        "3": "Major damage",
+        "4": "Destroyed",
+        "5": "Unclassified"
+    },
+    "label_name_to_num": {
+        "no-damage": 1,
+        "minor-damage": 2,
+        "major-damage": 3,
+        "destroyed": 4,
+        "un-classified": 5
+    },
+    "num_to_color": {
+        "0": "black",
+        "1": "limegreen",
+        "2": "orange",
+        "3": "mediumslateblue",
+        "4": "mediumvioletred",
+        "5": "lightgray"
+    }
+}

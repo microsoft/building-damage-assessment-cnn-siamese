@@ -1,0 +1,388 @@
+{
+    "pre_areas": {
+        "guatemala-volcano": {
+            "no-subtype": 555083.5836875269
+        },
+        "hurricane-florence": {
+            "no-subtype": 11596718.672202773
+        },
+        "hurricane-harvey": {
+            "no-subtype": 64235072.75402863
+        },
+        "hurricane-matthew": {
+            "no-subtype": 9551591.73552839
+        },
+        "hurricane-michael": {
+            "no-subtype": 43913489.5134971
+        },
+        "mexico-earthquake": {
+            "no-subtype": 52658622.98346215
+        },
+        "midwest-flooding": {
+            "no-subtype": 13892135.398812711
+        },
+        "palu-tsunami": {
+            "no-subtype": 33203878.023979597
+        },
+        "santa-rosa-wildfire": {
+            "no-subtype": 25924688.820611726
+        },
+        "socal-fire": {
+            "no-subtype": 23049244.366123896
+        },
+        "joplin-tornado": {
+            "no-subtype": 16040713.727818588
+        },
+        "lower-puna-volcano": {
+            "no-subtype": 1674418.6473476125
+        },
+        "moore-tornado": {
+            "no-subtype": 24100625.420579486
+        },
+        "nepal-flooding": {
+            "no-subtype": 18686861.90131992
+        },
+        "pinery-bushfire": {
+            "no-subtype": 3616593.3513660347
+        },
+        "portugal-wildfire": {
+            "no-subtype": 14850977.596319549
+        },
+        "sunda-tsunami": {
+            "no-subtype": 8411636.819834696
+        },
+        "tuscaloosa-tornado": {
+            "no-subtype": 16399750.244178453
+        },
+        "woolsey-fire": {
+            "no-subtype": 5507821.958937849
+        }
+    },
+    "post_areas": {
+        "guatemala-volcano": {
+            "no-damage": 424233.6886453207,
+            "minor-damage": 29976.136637258915,
+            "destroyed": 13941.99039685283,
+            "major-damage": 24967.16713784182,
+            "un-classified": 61147.989949917406
+        },
+        "hurricane-florence": {
+            "no-damage": 8602392.32303186,
+            "minor-damage": 576109.6347002991,
+            "un-classified": 626750.2712243387,
+            "major-damage": 1699878.4674861634,
+            "destroyed": 68945.8519562309
+        },
+        "hurricane-harvey": {
+            "major-damage": 19476393.610768512,
+            "minor-damage": 7644750.508543043,
+            "no-damage": 35160357.23794543,
+            "un-classified": 1108755.1759903177,
+            "destroyed": 689618.9005291539
+        },
+        "hurricane-matthew": {
+            "minor-damage": 5636593.268183401,
+            "no-damage": 1638989.3645763558,
+            "major-damage": 1236911.176751667,
+            "destroyed": 751569.3877616163,
+            "un-classified": 269248.90720901743
+        },
+        "hurricane-michael": {
+            "no-damage": 25807328.226440027,
+            "minor-damage": 10552598.155848961,
+            "un-classified": 177777.65172964666,
+            "major-damage": 6311634.324490453,
+            "destroyed": 987272.8873742732
+        },
+        "mexico-earthquake": {
+            "no-damage": 52106590.83687903,
+            "minor-damage": 293567.94942568743,
+            "un-classified": 71036.76478397334,
+            "major-damage": 80656.76917687584,
+            "destroyed": 5357.650044842722
+        },
+        "midwest-flooding": {
+            "no-damage": 13088260.501154136,
+            "un-classified": 188512.98368551358,
+            "destroyed": 128263.53270132157,
+            "major-damage": 215626.0213974825,
+            "minor-damage": 245182.62643771025
+        },
+        "palu-tsunami": {
+            "no-damage": 28429408.79366035,
+            "destroyed": 3327823.8268332803,
+            "major-damage": 1111737.3222539243,
+            "un-classified": 266830.25486142916,
+            "minor-damage": 831.4207079555346
+        },
+        "santa-rosa-wildfire": {
+            "no-damage": 18173724.881392688,
+            "destroyed": 7355765.6933949385,
+            "un-classified": 21348.4592846757,
+            "major-damage": 169763.6860384565,
+            "minor-damage": 157051.30029256907
+        },
+        "socal-fire": {
+            "no-damage": 20839832.579554196,
+            "un-classified": 238065.398824969,
+            "destroyed": 1707512.377862279,
+            "minor-damage": 95134.90757587964,
+            "major-damage": 117743.7346977082
+        },
+        "joplin-tornado": {
+            "destroyed": 2858702.8832999812,
+            "minor-damage": 2451123.516412556,
+            "major-damage": 1490180.1164239356,
+            "un-classified": 305713.5343858696,
+            "no-damage": 8902980.181803767
+        },
+        "lower-puna-volcano": {
+            "un-classified": 92873.13689085834,
+            "no-damage": 1278018.0225500248,
+            "minor-damage": 28325.978727244514,
+            "destroyed": 258886.20300476396,
+            "major-damage": 12627.194320518138
+        },
+        "moore-tornado": {
+            "no-damage": 20858990.4921232,
+            "un-classified": 162590.68324451018,
+            "destroyed": 1321422.0560918555,
+            "minor-damage": 1123501.9486039935,
+            "major-damage": 583883.1525602402
+        },
+        "nepal-flooding": {
+            "no-damage": 13396893.557653563,
+            "un-classified": 494409.1431600371,
+            "minor-damage": 2526383.940554102,
+            "major-damage": 2167094.243345501,
+            "destroyed": 82101.82189437859
+        },
+        "pinery-bushfire": {
+            "un-classified": 68172.28891898633,
+            "no-damage": 3330864.1249928013,
+            "major-damage": 56681.20608206688,
+            "destroyed": 110390.71678650305,
+            "minor-damage": 43455.85213152673
+        },
+        "portugal-wildfire": {
+            "no-damage": 13827027.478102874,
+            "un-classified": 253977.52260864992,
+            "destroyed": 467906.2358453642,
+            "minor-damage": 81083.11611925096,
+            "major-damage": 189985.77147544394
+        },
+        "sunda-tsunami": {
+            "no-damage": 6957184.433223553,
+            "un-classified": 1339309.6059006073,
+            "destroyed": 54783.33837448994,
+            "major-damage": 46925.12787137661
+        },
+        "tuscaloosa-tornado": {
+            "no-damage": 12509748.859454736,
+            "un-classified": 377831.00611432316,
+            "minor-damage": 1915863.4168710771,
+            "destroyed": 877805.9944712821,
+            "major-damage": 690388.5966991772
+        },
+        "woolsey-fire": {
+            "destroyed": 1230804.3924022317,
+            "minor-damage": 81576.74220822704,
+            "no-damage": 4069087.176166785,
+            "major-damage": 81166.70944708213,
+            "un-classified": 33949.60325156282
+        }
+    },
+    "pre_counts": {
+        "guatemala-volcano": {
+            "no-subtype": 991
+        },
+        "hurricane-florence": {
+            "no-subtype": 11548
+        },
+        "hurricane-harvey": {
+            "no-subtype": 37955
+        },
+        "hurricane-matthew": {
+            "no-subtype": 23964
+        },
+        "hurricane-michael": {
+            "no-subtype": 35501
+        },
+        "mexico-earthquake": {
+            "no-subtype": 51473
+        },
+        "midwest-flooding": {
+            "no-subtype": 13896
+        },
+        "palu-tsunami": {
+            "no-subtype": 55789
+        },
+        "santa-rosa-wildfire": {
+            "no-subtype": 21955
+        },
+        "socal-fire": {
+            "no-subtype": 18969
+        },
+        "joplin-tornado": {
+            "no-subtype": 15352
+        },
+        "lower-puna-volcano": {
+            "no-subtype": 3410
+        },
+        "moore-tornado": {
+            "no-subtype": 22958
+        },
+        "nepal-flooding": {
+            "no-subtype": 43265
+        },
+        "pinery-bushfire": {
+            "no-subtype": 5961
+        },
+        "portugal-wildfire": {
+            "no-subtype": 23413
+        },
+        "sunda-tsunami": {
+            "no-subtype": 16947
+        },
+        "tuscaloosa-tornado": {
+            "no-subtype": 15006
+        },
+        "woolsey-fire": {
+            "no-subtype": 7015
+        }
+    },
+    "post_counts": {
+        "guatemala-volcano": {
+            "no-damage": 731,
+            "minor-damage": 26,
+            "destroyed": 33,
+            "major-damage": 23,
+            "un-classified": 178
+        },
+        "hurricane-florence": {
+            "no-damage": 8466,
+            "minor-damage": 232,
+            "un-classified": 820,
+            "major-damage": 1949,
+            "destroyed": 81
+        },
+        "hurricane-harvey": {
+            "major-damage": 13378,
+            "minor-damage": 4510,
+            "no-damage": 18638,
+            "un-classified": 581,
+            "destroyed": 848
+        },
+        "hurricane-matthew": {
+            "minor-damage": 12331,
+            "no-damage": 4058,
+            "major-damage": 2717,
+            "destroyed": 3524,
+            "un-classified": 1334
+        },
+        "hurricane-michael": {
+            "no-damage": 22692,
+            "minor-damage": 8292,
+            "un-classified": 373,
+            "major-damage": 2919,
+            "destroyed": 1225
+        },
+        "mexico-earthquake": {
+            "no-damage": 51084,
+            "minor-damage": 221,
+            "un-classified": 111,
+            "major-damage": 54,
+            "destroyed": 3
+        },
+        "midwest-flooding": {
+            "no-damage": 12819,
+            "un-classified": 473,
+            "destroyed": 165,
+            "major-damage": 193,
+            "minor-damage": 246
+        },
+        "palu-tsunami": {
+            "no-damage": 46796,
+            "destroyed": 7203,
+            "major-damage": 1178,
+            "un-classified": 611,
+            "minor-damage": 1
+        },
+        "santa-rosa-wildfire": {
+            "no-damage": 15843,
+            "destroyed": 5810,
+            "un-classified": 86,
+            "major-damage": 95,
+            "minor-damage": 121
+        },
+        "socal-fire": {
+            "no-damage": 15697,
+            "un-classified": 693,
+            "destroyed": 2333,
+            "minor-damage": 136,
+            "major-damage": 110
+        },
+        "joplin-tornado": {
+            "destroyed": 3274,
+            "minor-damage": 2192,
+            "major-damage": 1005,
+            "un-classified": 656,
+            "no-damage": 8225
+        },
+        "lower-puna-volcano": {
+            "un-classified": 554,
+            "no-damage": 2277,
+            "minor-damage": 49,
+            "destroyed": 504,
+            "major-damage": 26
+        },
+        "moore-tornado": {
+            "no-damage": 19453,
+            "un-classified": 586,
+            "destroyed": 1584,
+            "minor-damage": 886,
+            "major-damage": 449
+        },
+        "nepal-flooding": {
+            "no-damage": 31225,
+            "un-classified": 1683,
+            "minor-damage": 5134,
+            "major-damage": 4721,
+            "destroyed": 502
+        },
+        "pinery-bushfire": {
+            "un-classified": 524,
+            "no-damage": 5027,
+            "major-damage": 99,
+            "destroyed": 229,
+            "minor-damage": 82
+        },
+        "portugal-wildfire": {
+            "no-damage": 20787,
+            "un-classified": 1064,
+            "destroyed": 1090,
+            "minor-damage": 176,
+            "major-damage": 296
+        },
+        "sunda-tsunami": {
+            "no-damage": 14078,
+            "un-classified": 2590,
+            "destroyed": 179,
+            "major-damage": 100
+        },
+        "tuscaloosa-tornado": {
+            "no-damage": 10499,
+            "un-classified": 908,
+            "minor-damage": 2036,
+            "destroyed": 1097,
+            "major-damage": 466
+        },
+        "woolsey-fire": {
+            "destroyed": 1876,
+            "minor-damage": 189,
+            "no-damage": 4638,
+            "major-damage": 126,
+            "un-classified": 186
+        }
+    }
+}
