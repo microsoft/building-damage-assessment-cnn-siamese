@@ -1,7 +1,7 @@
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT License.
 
-# Netherlands Red Cross (NLRC) Building Damage Assessment
+# Building Damage Assessment Model
 
 **Jump to: [Data sources](#data-sources) | [Setup](#setup) | [Data processing](#data-processing) | [Data splits & augmentation](#data-splits-&-augmentation)| [Overview of the model](#overview-of-the-model) | [Running experiments](#running-experiments) | [Results](#results) |**
 
