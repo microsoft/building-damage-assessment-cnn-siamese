@@ -1,0 +1,36 @@
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the MIT License.
+
+name: nlrc
+
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+  - pytorch
+
+dependencies:
+  - python==3.7.9
+  - pip==21.0.1
+  - rasterio==1.1.0
+  - gdal==3.0.2
+  - jupyterlab==3.0.7
+  - numpy==1.20.1
+  - nb_conda_kernels==2.3.1
+  - tqdm==4.56.2
+  - humanfriendly==9.1
+  - geopandas==0.8.1
+  - shapely==1.7.1
+  - scikit-learn==0.23.2
+  - tensorboard>=1.15
+  - tensorflow>=1.15.0
+  - pytorch 
+  - torchvision
+  - cudatoolkit=11.1
+  - pip:
+    - azure-storage-blob==12.7.1
+    - opencv-python==4.5.1.48
+    - pandas==1.1.5
+    - matplotlib==3.3.4
+    - scikit-image==0.17.2
+

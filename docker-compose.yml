@@ -1,0 +1,8 @@
+services:
+  inference:
+      build: .
+      image: "nlrc-building-damage-assessment:latest"
+      volumes:
+        - type: bind
+          source: ${dataset_path}
+          target: "/inference_files/dataset/"
