@@ -142,7 +142,7 @@ As explined above, for our experiments, we used the augmented splits where each 
 
 Our proposed approach shares some characteristics with ["An Attention-Based System for Damage Assessment Using Satellite Imagery"](https://arxiv.org/pdf/2004.06643v1.pdf) by Hanxiang Hao et al. However, we do not incorporate any attention mechanism in the network and we use a fewer number of convolutional layers for the segmentation arm, which is a UNet approach. Details of our architecture are shown below:
 
-![Network Architecture Schema](./images/model.PNG)
+![Network Architecture Schema](./images/model.png)
 <!-- 
 <p align="center">
     <img src="" width="800"/>
