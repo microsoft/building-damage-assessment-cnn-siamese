@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM nvidia/cuda:11.0-cudnn8-devel-ubuntu18.04
+FROM nvidia/cuda-arm64:11.1.1-cudnn8-devel-ubuntu18.04
 
 # Miniconda archive to install
 ARG miniconda_version="4.9.2"
