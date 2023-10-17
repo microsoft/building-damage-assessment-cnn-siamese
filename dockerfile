@@ -1,6 +1,10 @@
 # syntax=docker/dockerfile:1
 FROM nvidia/cuda-arm64:11.1.1-cudnn8-devel-ubuntu18.04
 
+# Fetch cuda signing key
+# See https://forums.developer.nvidia.com/t/notice-cuda-linux-repository-key-rotation/212772
+RUN apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/sbsa/3bf863cc.pub
+
 # Miniconda archive to install
 ARG miniconda_version="4.9.2"
 ARG miniconda_checksum="122c8c9beb51e124ab32a0fa6426c656"
