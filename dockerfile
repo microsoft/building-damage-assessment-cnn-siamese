@@ -23,7 +23,7 @@ ENV MINICONDA_VERSION="${miniconda_version}" \
 # General OS dependencies 
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get update \
- && apt-get install -yq --no-install-recommends \
+    && apt-get install -yq --no-install-recommends \
     wget \
     apt-utils \
     unzip \
@@ -36,7 +36,7 @@ RUN apt-get update \
     run-one \
     nano \
     libgl1-mesa-glx \
- && apt-get clean && rm -rf /var/lib/apt/lists/*
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Miniconda installation
 WORKDIR /tmp
