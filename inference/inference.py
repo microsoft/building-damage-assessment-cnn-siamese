@@ -82,7 +82,7 @@ def main():
     checkpoint_path = args.model
     if checkpoint_path and os.path.isfile(checkpoint_path):
         logging.info('Loading checkpoint from {}'.format(checkpoint_path))
-        checkpoint = torch.load(checkpoint_path, map_location=device)
+        checkpoint = torch.load(checkpoint_path, map_location=device, weight_only=True)
         model.load_state_dict(checkpoint['state_dict'])
         model = model.to(device=device)
         logging.info(f"Using checkpoint at epoch {checkpoint['epoch']}, val f1 is {checkpoint.get('val_f1_avg', 'Not Available')}")
